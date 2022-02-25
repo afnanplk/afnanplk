@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm afnanplk</h1>
+<h3 align="center">When you can be anybody, you become nobody...</h3>
 
-<!--
-**afnanplk/afnanplk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanplk&label=Profile%20views&color=0e75b6&style=flat" alt="afnanplk" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [PINKY WABOT](https://github.com/afnanplk/Pinky)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **btech**
+
+- 📫 How to reach me **https://chat.whatsapp.com/EWLP9VPgYmgGff6NORWSKk**
+
+- ⚡ Fun fact **People rarely succeed unless they have fun in what they are doing.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/__plk.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__plk.__" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afnanplk&show_icons=true&locale=en" alt="afnanplk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afnanplk&" alt="afnanplk" /></p>
