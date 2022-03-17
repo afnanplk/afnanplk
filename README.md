@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://chat.whatsapp.com/EWLP9VPgYmgGff6NORWSKk**
 
-- ⚡ Fun fact **.....**
+- ⚡ Fun fact **       .....        **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
